@@ -1,0 +1,48 @@
+img{
+	height: 200px;
+	padding 15px
+	border-radius: 50px;
+	opacity: .75;
+} 
+img:hover{
+	opacity: 1;
+}
+Body{
+	background: beige;
+	font-family: sans-serif;
+}
+h1{
+	text transform: uppercase;
+	letter-spacing: 12px;
+}
+img {
+	border-style: dashed;
+	border: 10px solid;
+}
+div{
+	width: 300px;
+	padding: 25px;
+}
+p.one{
+	border-style: dashed;
+	border-width: 5px;
+	border-color: lightblue;
+}
+p.two{
+	border-style: solid;
+	border-width: 5px;
+	border-color: lightblue;
+}
+p.three{
+	border-style: dotted;
+	border-width: 5px;
+	border-color: lightblue;
+}
+table{
+	margin-left: auto;
+	margin margin-right: auto;
+}
+h1.p{
+	box-shadow: brown;
+	border-color: beige;
+}
